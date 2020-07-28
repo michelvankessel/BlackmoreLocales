@@ -1081,7 +1081,7 @@
     <message>
         <location filename="../intro.cpp" line="+20"/>
         <source>Bitcoin</source>
-        <translation type="unfinished">Bitcoin</translation>
+        <translation type="unfinished">Blackcoin</translation>
     </message>
     <message>
         <location line="+6"/>
