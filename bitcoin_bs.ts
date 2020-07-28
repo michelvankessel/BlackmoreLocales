@@ -277,7 +277,7 @@
     <name>bitcoin-core</name>
     <message>
         <source>Bitcoin Core</source>
-        <translation>Blackcoin Jezrga</translation>
+        <translation>Blackcoin More</translation>
     </message>
     </context>
 </TS>
