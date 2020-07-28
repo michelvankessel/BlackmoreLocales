@@ -861,7 +861,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation>Blackcoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -873,7 +873,7 @@
     </message>
     <message>
         <source>%1 will download and store a copy of the Bitcoin block chain.</source>
-        <translation>%1 descargará y almacenará una copia de la cadena de bloques de Bitcoin.</translation>
+        <translation>%1 descargará y almacenará una copia de la cadena de bloques de Blackcoin.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -1336,7 +1336,7 @@
     </message>
     <message>
         <source>'bitcoin://' is not a valid URI. Use 'bitcoin:' instead.</source>
-        <translation>'bitcoin: //' no es un URI válido. Use 'bitcoin:' en su lugar.</translation>
+        <translation>'blackcoin: //' no es un URI válido. Use 'blackcoin:' en su lugar.</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
