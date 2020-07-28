@@ -63,11 +63,11 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit is jou Bitcoin-adresse vir die stuur van betalings. Kontroleer altyd die bedrag en die ontvangsadres voordat u munte stuur.</translation>
+        <translation>Dit is jou Blackcoin-adresse vir die stuur van betalings. Kontroleer altyd die bedrag en die ontvangsadres voordat u munte stuur.</translation>
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dit is jou Bitcoin-adresse vir die stuur van betalings. Kontroleer altyd die bedrag en die ontvangsadres voordat jy munte stuur.</translation>
+        <translation>Dit is jou Blackcoin-adresse vir die stuur van betalings. Kontroleer altyd die bedrag en die ontvangsadres voordat jy munte stuur.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
-        <translation>Waarskuwing: As jy jou beursie enkripteer en jou wagwoord verloor, sal jy &lt;b&gt;AL JOU BITCOINS VERLOOR&lt;/b&gt;!</translation>
+        <translation>Waarskuwing: As jy jou beursie enkripteer en jou wagwoord verloor, sal jy &lt;b&gt;AL JOU BLACKCOINS VERLOOR&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -189,7 +189,7 @@
     </message>
     <message>
         <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>%1 gaan nou toe maak om die enkripsie proses klaar te maak. Onthou dat jou bitcoins nie ten volle beskerm kan word deur die beursie te enkrip teen "malware" wat jou rekenaar besmet.</translation>
+        <translation>%1 gaan nou toe maak om die enkripsie proses klaar te maak. Onthou dat jou blackcoins nie ten volle beskerm kan word deur die beursie te enkrip teen "malware" wat jou rekenaar besmet.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -347,7 +347,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Stuur muntstukke na 'n Bitcoin adres</translation>
+        <translation>Stuur muntstukke na 'n Blackcoin adres</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -399,11 +399,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Teken boodskappe met u Bitcoin adresse om te bewys dat u hul besit</translation>
+        <translation>Teken boodskappe met u Blackcoin adresse om te bewys dat u hul besit</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Bevestig boodskappe om te verseker dat hulle geteken was met gespesifiseerde Bitcoin adresse</translation>
+        <translation>Bevestig boodskappe om te verseker dat hulle geteken was met gespesifiseerde Blackcoin adresse</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -423,7 +423,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Versoek betalings (genereer QR kodes en bitcoin: URIs)</translation>
+        <translation>Versoek betalings (genereer QR kodes en Blackcoin: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -435,7 +435,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Open 'n bitcoin: URI of betalingsversoek</translation>
+        <translation>Open 'n Blackcoin: URI of betalingsversoek</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -479,7 +479,7 @@
     </message>
     <message>
         <source>Show the %1 help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Wys die %1 hulpboodskap om 'n lys met moontlike Bitcoin bevel-lyn opsies te verkry</translation>
+        <translation>Wys die %1 hulpboodskap om 'n lys met moontlike Blackcoin bevel-lyn opsies te verkry</translation>
     </message>
     <message>
         <source>%1 client</source>
@@ -549,7 +549,7 @@
     </message>
     <message>
         <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
-        <translation>'n Noodlottige fout het voorgekom. Bitcoin kan nie langer voortgaan nie en sal afsluit.</translation>
+        <translation>'n Noodlottige fout het voorgekom. Blackcoin kan nie langer voortgaan nie en sal afsluit.</translation>
     </message>
 </context>
 <context>
@@ -739,7 +739,7 @@
     </message>
     <message>
         <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>Die ingeskrewe adres "%1" is nie 'n geldige Bitcoin adres nie.</translation>
+        <translation>Die ingeskrewe adres "%1" is nie 'n geldige Blackcoin adres nie.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -812,7 +812,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation>Blackcoin</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -1165,7 +1165,7 @@
     </message>
     <message>
         <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Voer in 'n Bitcoin adres (bv. %1)</translation>
+        <translation>Voer in 'n Blackcoin adres (bv. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1746,7 +1746,7 @@ transaksievertragingsrisiko.</translation>
     </message>
     <message>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Waarskuwing: Ongeldige Bitcoinadres</translation>
+        <translation>Waarskuwing: Ongeldige Blackcoinadres</translation>
     </message>
     <message>
         <source>The address you selected for change is not part of this wallet. Any or all funds in your wallet may be sent to this address. Are you sure?</source>
@@ -1783,7 +1783,7 @@ Is u seker?</translation>
     </message>
     <message>
         <source>The Bitcoin address to send the payment to</source>
-        <translation>Die Bitcoinadres waarheen die betaling gestuur word</translation>
+        <translation>Die Blackcoinadres waarheen die betaling gestuur word</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1799,10 +1799,7 @@ Is u seker?</translation>
     </message>
     <message>
         <source>The fee will be deducted from the amount being sent. The recipient will receive less bitcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>De fooi word afgetrek van die gestuurde bedrag.
-Die ontvanger sal minder ontvang as wat u in die 
-bedrag opgee. As daar meer as een ontvanger is,
-word die fooi eweredig verdeel.</translation>
+        <translation>De fooi word afgetrek van die gestuurde bedrag. Die ontvanger sal minder ontvang as wat u in die bedrag opgee. As daar meer as een ontvanger is, word die fooi eweredig verdeel.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
