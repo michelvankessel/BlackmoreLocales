@@ -71,7 +71,7 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ovo su vaše Bitcoin adrese za primanje novca. Preporučeno je da koristite novu primateljsku adresu za svaku transakciju.</translation>
+        <translation>Ovo su vaše Blackcoin adrese za primanje novca. Preporučeno je da koristite novu primateljsku adresu za svaku transakciju.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
-        <translation>Upozorenje: Ako šifrirate vaš novčanik i izgubite lozinku, &lt;b&gt;IZGUBIT ĆETE SVE SVOJE BITCOINE!&lt;/b&gt;</translation>
+        <translation>Upozorenje: Ako šifrirate vaš novčanik i izgubite lozinku, &lt;b&gt;IZGUBIT ĆETE SVE SVOJE BLACKCOINE!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -189,7 +189,7 @@
     </message>
     <message>
         <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>%1 će se sada zatvoriti kako bi dovršio postupak šifriranja. Zapamtite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše bitcoine od krađe preko zloćudnog softvera koji bi bio na vašem računalu.</translation>
+        <translation>%1 će se sada zatvoriti kako bi dovršio postupak šifriranja. Zapamtite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše blackcoine od krađe preko zloćudnog softvera koji bi bio na vašem računalu.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -359,7 +359,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Pošaljite novac na Bitcoin adresu</translation>
+        <translation>Pošaljite novac na Blackcoin adresu</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -411,11 +411,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Poruku potpišemo s Bitcoin adresom, kako bi dokazali vlasništvo nad tom adresom</translation>
+        <translation>Poruku potpišemo s Blackcoin adresom, kako bi dokazali vlasništvo nad tom adresom</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Provjerite poruku da je potpisana s navedenom Bitcoin adresom</translation>
+        <translation>Provjerite poruku da je potpisana s navedenom Blackcoin adresom</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -435,7 +435,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Zatražite uplatu (stvara QR kod i bitcoin: URI adresu)</translation>
+        <translation>Zatražite uplatu (stvara QR kod i blackcoin: URI adresu)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -447,7 +447,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Otvorite bitcoin: URI adresu ili zahtjev za uplatu</translation>
+        <translation>Otvorite blackcoin: URI adresu ili zahtjev za uplatu</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -455,7 +455,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n aktivna veza na Blackcoin mrežu</numerusform><numerusform>%n aktivnih veza na Blackcoin mrežu</numerusform><numerusform>%n aktivnih veza na Bitcoin mrežu</numerusform></translation>
+        <translation><numerusform>%n aktivna veza na Blackcoin mrežu</numerusform><numerusform>%n aktivnih veza na Blackcoin mrežu</numerusform><numerusform>%n aktivnih veza na Blackcoin mrežu</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -574,7 +574,7 @@
     </message>
     <message>
         <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
-        <translation>Dogodila se kobna greška. Bitcoin ne može više sigurno nastaviti te će se zatvoriti.</translation>
+        <translation>Dogodila se kobna greška. Blackcoin ne može više sigurno nastaviti te će se zatvoriti.</translation>
     </message>
 </context>
 <context>
@@ -764,7 +764,7 @@
     </message>
     <message>
         <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>Upisana adresa "%1" nije valjana Bitcoin adresa.</translation>
+        <translation>Upisana adresa "%1" nije valjana Blackcoin adresa.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -861,7 +861,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation>Blackcoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -873,7 +873,7 @@
     </message>
     <message>
         <source>%1 will download and store a copy of the Bitcoin block chain.</source>
-        <translation>%1 preuzet će i pohraniti kopiju Bitcoinovog lanca blokova.</translation>
+        <translation>%1 preuzet će i pohraniti kopiju Blackcoinovog lanca blokova.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -904,11 +904,11 @@
     </message>
     <message>
         <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the bitcoin network, as detailed below.</source>
-        <translation>Nedavne transakcije možda još nisu vidljive pa vam stanje novčanika može biti netočno. Ove informacije bit će točne nakon što vaš novčanik dovrši sinkronizaciju s Bitcoinovom mrežom, kako je opisano dolje.</translation>
+        <translation>Nedavne transakcije možda još nisu vidljive pa vam stanje novčanika može biti netočno. Ove informacije bit će točne nakon što vaš novčanik dovrši sinkronizaciju s Blackcoinovom mrežom, kako je opisano dolje.</translation>
     </message>
     <message>
         <source>Attempting to spend bitcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>Mreža neće prihvatiti pokušaje trošenja bitcoina koji su utjecani sa strane transakcija koje još nisu vidljive.</translation>
+        <translation>Mreža neće prihvatiti pokušaje trošenja blackcoina koji su utjecani sa strane transakcija koje još nisu vidljive.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1110,7 +1110,7 @@
     </message>
     <message>
         <source>Connect to the Bitcoin network through a SOCKS5 proxy.</source>
-        <translation>Spojite se na Bitcoin mrežu kroz SOCKS5 proxy.</translation>
+        <translation>Spojite se na Blackcoin mrežu kroz SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1146,7 +1146,7 @@
     </message>
     <message>
         <source>Connect to the Bitcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Spojite se na Bitcoin mrežu kroz zaseban SOCKS5 proxy za povezivanje na Tor.</translation>
+        <translation>Spojite se na Blackcoin mrežu kroz zaseban SOCKS5 proxy za povezivanje na Tor.</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1336,7 +1336,7 @@
     </message>
     <message>
         <source>'bitcoin://' is not a valid URI. Use 'bitcoin:' instead.</source>
-        <translation>'bitcoin://' nije ispravan URI. Koristite 'bitcoin:' umjesto toga.</translation>
+        <translation>'blackcoin://' nije ispravan URI. Koristite 'blackcoin:' umjesto toga.</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1347,8 +1347,8 @@
         <translation>Nevažeća adresa za plaćanje %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation>Ne može se parsirati URI! Uzrok tomu može biti nevažeća Bitcoin adresa ili neispravni parametri kod URI-a.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Blackcoin address or malformed URI parameters.</source>
+        <translation>Ne može se parsirati URI! Uzrok tomu može biti nevažeća Blackcoin adresa ili neispravni parametri kod URI-a.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1450,7 +1450,7 @@
     </message>
     <message>
         <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Unesite Bitcoin adresu (npr. %1)</translation>
+        <translation>Unesite Blackcoin adresu (npr. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1898,7 +1898,7 @@
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation>Opcionalna poruka koja se može dodati kao privitak zahtjevu za plaćanje. Bit će prikazana kad je zahtjev otvoren. Napomena: Ova poruka neće biti poslana zajedno s uplatom preko Bitcoin mreže.</translation>
+        <translation>Opcionalna poruka koja se može dodati kao privitak zahtjevu za plaćanje. Bit će prikazana kad je zahtjev otvoren. Napomena: Ova poruka neće biti poslana zajedno s uplatom preko Blackcoin mreže.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2151,7 +2151,7 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for bitcoin transactions than the network can process.</source>
-        <translation>Plaćanje minimalnu naknadu je dovoljno ukoliko je volumen transakcija manja od prostora u blokovima. Budite svjesni da ovo može završiti tako da se transakcija nikad ne potvrdi ako je potražnja za Bitcoin transakcijama veća nego što mreža može procesirati.</translation>
+        <translation>Plaćanje minimalnu naknadu je dovoljno ukoliko je volumen transakcija manja od prostora u blokovima. Budite svjesni da ovo može završiti tako da se transakcija nikad ne potvrdi ako je potražnja za Blackcoin transakcijama veća nego što mreža može procesirati.</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
@@ -2331,7 +2331,7 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
     </message>
     <message>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Upozorenje: Nevažeća Bitcoin adresa</translation>
+        <translation>Upozorenje: Nevažeća Blackcoin adresa</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2374,7 +2374,7 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
     </message>
     <message>
         <source>The Bitcoin address to send the payment to</source>
-        <translation>Bitcoin adresa na koju ćete poslati uplatu</translation>
+        <translation>Blackcoin adresa na koju ćete poslati uplatu</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2422,7 +2422,7 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>Poruka koja je dodana uplati: URI koji će biti spremljen s transakcijom za referencu. Napomena: Ova poruka neće biti poslana preko Bitcoin mreže.</translation>
+        <translation>Poruka koja je dodana uplati: URI koji će biti spremljen s transakcijom za referencu. Napomena: Ova poruka neće biti poslana preko Blackcoin mreže.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2467,11 +2467,11 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
     </message>
     <message>
         <source>You can sign messages/agreements with your addresses to prove you can receive bitcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Možete potpisati poruke/dogovore svojim adresama kako biste dokazali da možete pristupiti bitcoinima poslanim na te adrese. Budite oprezni da ne potpisujte ništa nejasno ili nasumično, jer napadi phishingom vas mogu prevariti da prepišite svoj identitet njima. Potpisujte samo detaljno objašnjene izjave s kojima se slažete.</translation>
+        <translation>Možete potpisati poruke/dogovore svojim adresama kako biste dokazali da možete pristupiti blackcoinima poslanim na te adrese. Budite oprezni da ne potpisujte ništa nejasno ili nasumično, jer napadi phishingom vas mogu prevariti da prepišite svoj identitet njima. Potpisujte samo detaljno objašnjene izjave s kojima se slažete.</translation>
     </message>
     <message>
         <source>The Bitcoin address to sign the message with</source>
-        <translation>Bitcoin adresa pomoću koje ćete potpisati poruku</translation>
+        <translation>Blackcoin adresa pomoću koje ćete potpisati poruku</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2503,7 +2503,7 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
     </message>
     <message>
         <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation>Potpišite poruku kako biste dokazali da posjedujete ovu Bitcoin adresu</translation>
+        <translation>Potpišite poruku kako biste dokazali da posjedujete ovu Blackcoin adresu</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2527,11 +2527,11 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
     </message>
     <message>
         <source>The Bitcoin address the message was signed with</source>
-        <translation>Bitcoin adresa kojom je poruka potpisana</translation>
+        <translation>Blackcoin adresa kojom je poruka potpisana</translation>
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Provjerite poruku da budete sigurni da je potpisana zadanom Bitcoin adresom</translation>
+        <translation>Provjerite poruku da budete sigurni da je potpisana zadanom Blackcoin adresom</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3180,7 +3180,7 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Blackcoin More</translation>
     </message>
     <message>
         <source>The %s developers</source>
