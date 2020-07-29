@@ -862,7 +862,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation>Blackcoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -874,7 +874,7 @@
     </message>
     <message>
         <source>%1 will download and store a copy of the Bitcoin block chain.</source>
-        <translation>%1 會下載 Bitcoin 區塊鏈並且儲存一份副本。</translation>
+        <translation>%1 會下載 Blackcoin 區塊鏈並且儲存一份副本。</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -1011,7 +1011,7 @@
     </message>
     <message>
         <source>Use separate SOCKS&amp;5 proxy to reach peers via Tor hidden services:</source>
-        <translation>透過另外的 SOCKS&amp;5 代理伺服器來連線到 Bitcoin 網路中的 Tor 隱藏服務:</translation>
+        <translation>透過另外的 SOCKS&amp;5 代理伺服器來連線到 Blackcoin 網路中的 Tor 隱藏服務:</translation>
     </message>
     <message>
         <source>Hide the icon from the system tray.</source>
@@ -1337,7 +1337,7 @@
     </message>
     <message>
         <source>'bitcoin://' is not a valid URI. Use 'bitcoin:' instead.</source>
-        <translation>字首為 bitcoin:// 不是有效的 URI，請改用 bitcoin: 開頭。</translation>
+        <translation>字首為 blackcoin:// 不是有效的 URI，請改用 blackcoin: 開頭。</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>

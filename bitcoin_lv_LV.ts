@@ -43,11 +43,11 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Izvēlies adresi uz kuru sūtīt bitcoins</translation>
+        <translation>Izvēlies adresi uz kuru sūtīt blackcoins</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Izvēlies adresi ar kuru saņemt bitcoins</translation>
+        <translation>Izvēlies adresi ar kuru saņemt blackcoins</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -470,7 +470,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation>Blackcoin</translation>
     </message>
     <message>
         <source>Error</source>

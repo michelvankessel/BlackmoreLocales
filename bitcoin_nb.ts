@@ -67,11 +67,11 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dette er dine Bitcoin adresser for å sende  å sende betalinger. Husk å sjekke beløp og mottager adresser før du sender mynter.</translation>
+        <translation>Dette er dine Blackcoin adresser for å sende  å sende betalinger. Husk å sjekke beløp og mottager adresser før du sender mynter.</translation>
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dette er dine Bitcoin adresse for å motta betalinger. Det er anbefalt å bruke en ny mottager adresse for hver transaksjon.</translation>
+        <translation>Dette er dine Blackcoin adresse for å motta betalinger. Det er anbefalt å bruke en ny mottager adresse for hver transaksjon.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
-        <translation>Advarsel: Dersom du krypterer lommeboken og mister passordsetningen vil du &lt;b&gt;MISTE ALLE DINE BITCOIN&lt;/b&gt;!</translation>
+        <translation>Advarsel: Dersom du krypterer lommeboken og mister passordsetningen vil du &lt;b&gt;MISTE ALLE DINE BLACKCOIN&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -189,7 +189,7 @@
     </message>
     <message>
         <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>%1 vil nå lukkes for å fullføre krypteringsprosessen. Husk at å kryptere lommeboken ikke kan beskytte dine bitcoin fullstendig fra å bli stjålet av skadelig programvare som har infisert datamaskinen din.</translation>
+        <translation>%1 vil nå lukkes for å fullføre krypteringsprosessen. Husk at å kryptere lommeboken ikke kan beskytte dine blackcoin fullstendig fra å bli stjålet av skadelig programvare som har infisert datamaskinen din.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -359,7 +359,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Send mynter til en Bitcoin adresse</translation>
+        <translation>Send mynter til en Blackcoin adresse</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -411,11 +411,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Signer meldingene med Bitcoin adresse for å bevise at diu eier dem</translation>
+        <translation>Signer meldingene med Blackcoin adresse for å bevise at diu eier dem</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Verifiser meldinger for å sikre at de ble signert med en angitt Bitcoin adresse</translation>
+        <translation>Verifiser meldinger for å sikre at de ble signert med en angitt Blackcoin adresse</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -435,7 +435,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Be om betalinger (genererer QR-koder og bitcoin-URIer)</translation>
+        <translation>Be om betalinger (genererer QR-koder og blackcoin-URIer)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -447,7 +447,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Åpne en bitcoin: URI eller betalingsforespørsel</translation>
+        <translation>Åpne en blackcoin: URI eller betalingsforespørsel</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -507,7 +507,7 @@
     </message>
     <message>
         <source>Show the %1 help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Vis %1-hjelpemeldingen for å få en liste over mulige Bitcoin-kommandolinjealternativer</translation>
+        <translation>Vis %1-hjelpemeldingen for å få en liste over mulige Blackcoin-kommandolinjealternativer</translation>
     </message>
     <message>
         <source>%1 client</source>
@@ -583,7 +583,7 @@
     </message>
     <message>
         <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
-        <translation>En fatal feil har inntruffet. Bitcoin kan ikke lenger trygt fortsette, og må derfor avslutte.</translation>
+        <translation>En fatal feil har inntruffet. Blackcoin kan ikke lenger trygt fortsette, og må derfor avslutte.</translation>
     </message>
 </context>
 <context>
@@ -773,7 +773,7 @@
     </message>
     <message>
         <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>Den angitte adressen "%1" er ikke en gyldig Bitcoin-adresse.</translation>
+        <translation>Den angitte adressen "%1" er ikke en gyldig Blackcoin-adresse.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -862,7 +862,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation>Blackcoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -874,7 +874,7 @@
     </message>
     <message>
         <source>%1 will download and store a copy of the Bitcoin block chain.</source>
-        <translation>%1 vil laste ned og lagre en kopi av Bitcoin blokkjeden.</translation>
+        <translation>%1 vil laste ned og lagre en kopi av Blackcoin blokkjeden.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -905,11 +905,11 @@
     </message>
     <message>
         <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the bitcoin network, as detailed below.</source>
-        <translation>Det kan hende nylige transaksjoner ikke vises enda, og at lommeboksaldoen dermed blir uriktig. Denne informasjonen vil rette seg når synkronisering av lommeboka mot bitcoin-nettverket er fullført, som anvist nedenfor.</translation>
+        <translation>Det kan hende nylige transaksjoner ikke vises enda, og at lommeboksaldoen dermed blir uriktig. Denne informasjonen vil rette seg når synkronisering av lommeboka mot blackcoin-nettverket er fullført, som anvist nedenfor.</translation>
     </message>
     <message>
         <source>Attempting to spend bitcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>Forsøk på å bruke bitcoin som er påvirket av transaksjoner som ikke er vist enda godtas ikke av nettverket.</translation>
+        <translation>Forsøk på å bruke blackcoin som er påvirket av transaksjoner som ikke er vist enda godtas ikke av nettverket.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1317,7 +1317,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>Kan ikke starte bitcoin: Klikk-og-betal håndterer</translation>
+        <translation>Kan ikke starte blackcoin: Klikk-og-betal håndterer</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1333,7 +1333,7 @@
     </message>
     <message>
         <source>URI cannot be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation>URI kan ikke fortolkes! Dette kan være forårsaket av en ugyldig bitcoin-adresse eller feilformede URI-parametre.</translation>
+        <translation>URI kan ikke fortolkes! Dette kan være forårsaket av en ugyldig blackcoin-adresse eller feilformede URI-parametre.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -2024,7 +2024,7 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Send Bitcoins</translation>
+        <translation>Send Blackcoin</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -2293,7 +2293,7 @@
     </message>
     <message>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Advarsel Ugyldig bitcoin-adresse</translation>
+        <translation>Advarsel Ugyldig blackcoin-adresse</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2710,7 +2710,7 @@
     </message>
     <message>
         <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Genererte bitcoins må modne %1 blokker før de kan brukes. Da du genererte denne blokken ble den kringkastet på nettverket for å bli lagt til i kjeden av blokker. Hvis den ikke kommer med i kjeden vil den endre seg til "ikke akseptert", og vil ikke kunne brukes. Dette vil noen ganger skje hvis en annen node genererer en blokk innen noen sekunder av din.</translation>
+        <translation>Genererte blackcoins må modne %1 blokker før de kan brukes. Da du genererte denne blokken ble den kringkastet på nettverket for å bli lagt til i kjeden av blokker. Hvis den ikke kommer med i kjeden vil den endre seg til "ikke akseptert", og vil ikke kunne brukes. Dette vil noen ganger skje hvis en annen node genererer en blokk innen noen sekunder av din.</translation>
     </message>
     <message>
         <source>Debug information</source>

@@ -67,11 +67,11 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estes são os seus endereços Bitcoin para enviar pagamentos. Verifique sempre o valor e o endereço de envio antes de enviar moedas.</translation>
+        <translation>Estes são os seus endereços Blackcoin para enviar pagamentos. Verifique sempre o valor e o endereço de envio antes de enviar moedas.</translation>
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estes são os seus endereços Bitcoin para receber pagamentos. É recomendado que utilize um endereço novo para cada transação.</translation>
+        <translation>Estes são os seus endereços Blackcoin para receber pagamentos. É recomendado que utilize um endereço novo para cada transação.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -189,7 +189,7 @@
     </message>
     <message>
         <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>%1 irá agora ser fechado para terminar o processo de encriptação. Recorde que a encriptação da sua carteira não protegerá totalmente os seus bitcoins de serem roubados por programas maliciosos que infetem o seu computador.</translation>
+        <translation>%1 irá agora ser fechado para terminar o processo de encriptação. Recorde que a encriptação da sua carteira não protegerá totalmente os seus blackcoins de serem roubados por programas maliciosos que infetem o seu computador.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -575,7 +575,7 @@
     </message>
     <message>
         <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
-        <translation>Ocorreu um erro fatal. O Bitcoin não pode continuar com segurança e irá fechar.</translation>
+        <translation>Ocorreu um erro fatal. O Blackcoin não pode continuar com segurança e irá fechar.</translation>
     </message>
 </context>
 <context>
@@ -765,7 +765,7 @@
     </message>
     <message>
         <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>O endereço introduzido "%1" não é um endereço bitcoin válido.</translation>
+        <translation>O endereço introduzido "%1" não é um endereço blackcoin válido.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -862,7 +862,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation>Blackcoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -874,7 +874,7 @@
     </message>
     <message>
         <source>%1 will download and store a copy of the Bitcoin block chain.</source>
-        <translation>%1 irá descarregar e armazenar uma cópia da cadeia de blocos da Bitcoin.</translation>
+        <translation>%1 irá descarregar e armazenar uma cópia da cadeia de blocos da Blackcoin.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -909,7 +909,7 @@
     </message>
     <message>
         <source>Attempting to spend bitcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>Tentar enviar bitcoins que estão afetadas por transações ainda não exibidas não será aceite pela rede.</translation>
+        <translation>Tentar enviar blackcoins que estão afetadas por transações ainda não exibidas não será aceite pela rede.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1330,7 +1330,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>Impossível iniciar o controlador de bitcoin: click-to-pay</translation>
+        <translation>Impossível iniciar o controlador de blackcoin: click-to-pay</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1338,7 +1338,7 @@
     </message>
     <message>
         <source>'bitcoin://' is not a valid URI. Use 'bitcoin:' instead.</source>
-        <translation>'bitcoin://' não é um URI válido. Utilize 'bitcoin:'.</translation>
+        <translation>'blackcoin://' não é um URI válido. Utilize 'blackcoin:'.</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1350,7 +1350,7 @@
     </message>
     <message>
         <source>URI cannot be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation>URI não foi lido corretamente! Isto pode ser causado por um endereço Bitcoin inválido ou por parâmetros URI malformados.</translation>
+        <translation>URI não foi lido corretamente! Isto pode ser causado por um endereço Blackcoin inválido ou por parâmetros URI malformados.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1452,7 +1452,7 @@
     </message>
     <message>
         <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Introduza um endereço Bitcoin (ex. %1)</translation>
+        <translation>Introduza um endereço Blackcoin (ex. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2334,7 +2334,7 @@ Nota: como a taxa é calculada por byte, uma taxa de "100 satoshis por kB" por u
     </message>
     <message>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Aviso: endereço Bitcoin inválido</translation>
+        <translation>Aviso: endereço Blackcoin inválido</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>

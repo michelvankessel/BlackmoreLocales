@@ -67,11 +67,11 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Bunlar ödeme göndermek için gereken Bitcoin adreslerinizdir. Para göndermeden önce her zaman miktarı ve alıcı adresi kontrol edin.</translation>
+        <translation>Bunlar ödeme göndermek için gereken Blackcoin adreslerinizdir. Para göndermeden önce her zaman miktarı ve alıcı adresi kontrol edin.</translation>
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Bunlar ödeme almak için kullanılacak Bitcoin adreslerinizdir. Her işlem için yeni bir ödeme alma adresi kullanılması tavsiye edilir.</translation>
+        <translation>Bunlar ödeme almak için kullanılacak Blackcoin adreslerinizdir. Her işlem için yeni bir ödeme alma adresi kullanılması tavsiye edilir.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
-        <translation>Uyarı: Eğer cüzdanınızı şifreleyip parolanızı kaybederseniz (unutursanız) , &lt;b&gt;BÜTÜN BITCOIN'LERINIZI KAYBEDECEKSINIZ&lt;/b&gt;!</translation>
+        <translation>Uyarı: Eğer cüzdanınızı şifreleyip parolanızı kaybederseniz (unutursanız) , &lt;b&gt;BÜTÜN BLACKCOIN'LERINIZI KAYBEDECEKSINIZ&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -359,7 +359,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Bitcoin adresine madeni para gönderin</translation>
+        <translation>Blackcoin adresine madeni para gönderin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -383,8 +383,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Bitcoin
-</translation>
+        <translation>Blackcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -765,7 +764,7 @@
     </message>
     <message>
         <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>Girilen adres "%1" Bitcoin adresiyle eşleşmiyor.</translation>
+        <translation>Girilen adres "%1" Blackcoin adresiyle eşleşmiyor.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -854,8 +853,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Bitcoin
-</translation>
+        <translation>Blackcoin</translation>
     </message>
     <message>
         <source>Approximately %1 GB of data will be stored in this directory.</source>
@@ -1322,7 +1320,7 @@
     </message>
     <message>
         <source>'bitcoin://' is not a valid URI. Use 'bitcoin:' instead.</source>
-        <translation>'bitcoin://' geçerli bir protokol (URI) değil. Onun yerine 'bitcoin:' kullanınız.</translation>
+        <translation>'blackcoin://' geçerli bir protokol (URI) değil. Onun yerine 'blackcoin:' kullanınız.</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1436,7 +1434,7 @@
     </message>
     <message>
         <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Bitcoin adresinizi girin (örneğin %1)</translation>
+        <translation>Blackcoin adresinizi girin (örneğin %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1821,7 +1819,7 @@
     </message>
     <message>
         <source>WARNING: Scammers have been active, telling users to type commands here, stealing their wallet contents. Do not use this console without fully understanding the ramifications of a command.</source>
-        <translation>UYARI: Blackcoin dolandırıcılarının çok fazla etkin olduğu zamanlarda, dolandırıcılar bazı kullanıcılara buraya komutlar yazmalarını söylerek onların cüzdanlarındaki bitcoinleri çalmışlardır. Bir komutun sonuçlarını tam olarak anlamadan bu konsolu kullanmayın.</translation>
+        <translation>UYARI: Blackcoin dolandırıcılarının çok fazla etkin olduğu zamanlarda, dolandırıcılar bazı kullanıcılara buraya komutlar yazmalarını söylerek onların cüzdanlarındaki blackcoinleri çalmışlardır. Bir komutun sonuçlarını tam olarak anlamadan bu konsolu kullanmayın.</translation>
     </message>
     <message>
         <source>Network activity disabled</source>
@@ -2285,7 +2283,7 @@
     </message>
     <message>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Uyarı: Hatalı Bitcoin adresi</translation>
+        <translation>Uyarı: Hatalı Blackcoin adresi</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>

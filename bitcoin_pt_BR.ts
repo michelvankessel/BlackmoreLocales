@@ -189,7 +189,7 @@
     </message>
     <message>
         <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>O %1 irá fechar agora para finalizar o processo de criptografia. Lembre-se de que criptografar sua carteira não protege totalmente seus bitcoins de serem roubados por malwares que tenham infectado o seu computador.</translation>
+        <translation>O %1 irá fechar agora para finalizar o processo de criptografia. Lembre-se de que criptografar sua carteira não protege totalmente seus blackcoins de serem roubados por malwares que tenham infectado o seu computador.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -862,7 +862,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation>Blackcoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -874,7 +874,7 @@
     </message>
     <message>
         <source>%1 will download and store a copy of the Bitcoin block chain.</source>
-        <translation>%1 irá baixar e armazenar uma cópia da block chain do Bitcoin.</translation>
+        <translation>%1 irá baixar e armazenar uma cópia da block chain do Blackcoin.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -909,7 +909,7 @@
     </message>
     <message>
         <source>Attempting to spend bitcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>Tentar gastar bitcoins que estão em transações ainda não exibidas, não vão ser aceitos pela rede.</translation>
+        <translation>Tentar gastar blackcoins que estão em transações ainda não exibidas, não vão ser aceitos pela rede.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1254,7 +1254,7 @@
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>A informação mostrada pode estar desatualizada. Sua carteira sincroniza automaticamente com a rede Bitcoin depois que a conexão é estabelecida, mas este processo ainda não está completo.</translation>
+        <translation>A informação mostrada pode estar desatualizada. Sua carteira sincroniza automaticamente com a rede Blackcoin depois que a conexão é estabelecida, mas este processo ainda não está completo.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1337,7 +1337,7 @@
     </message>
     <message>
         <source>'bitcoin://' is not a valid URI. Use 'bitcoin:' instead.</source>
-        <translation>'bitcoin://' não é um URI válido. Use 'bitcoin:'.</translation>
+        <translation>'blackcoin://' não é um URI válido. Use 'blackcoin:'.</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -2332,7 +2332,7 @@ Nota:  Como a taxa é calculada por byte, uma taxa de "100 satoshis por kB" por 
     </message>
     <message>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Aviso: Endereço Bitcoin inválido</translation>
+        <translation>Aviso: Endereço Blackcoin inválido</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2375,7 +2375,7 @@ Nota:  Como a taxa é calculada por byte, uma taxa de "100 satoshis por kB" por 
     </message>
     <message>
         <source>The Bitcoin address to send the payment to</source>
-        <translation>O endereço Bitcoin para enviar o pagamento</translation>
+        <translation>O endereço Blackcoin para enviar o pagamento</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2472,7 +2472,7 @@ Nota:  Como a taxa é calculada por byte, uma taxa de "100 satoshis por kB" por 
     </message>
     <message>
         <source>The Bitcoin address to sign the message with</source>
-        <translation>O endereço Bitcoin que assinará a mensagem</translation>
+        <translation>O endereço Blackcoin que assinará a mensagem</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2528,11 +2528,11 @@ Nota:  Como a taxa é calculada por byte, uma taxa de "100 satoshis por kB" por 
     </message>
     <message>
         <source>The Bitcoin address the message was signed with</source>
-        <translation>O endereço Bitcoin que foi usado para assinar a mensagem</translation>
+        <translation>O endereço Blackcoin que foi usado para assinar a mensagem</translation>
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Verificar mensagem para se assegurar que ela foi assinada pelo dono de um endereço Bitcoin específico</translation>
+        <translation>Verificar mensagem para se assegurar que ela foi assinada pelo dono de um endereço Blackcoin específico</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>

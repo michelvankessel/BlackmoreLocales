@@ -1329,7 +1329,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>לא ניתן להפעיל את המקשר bitcoin: click-to-pay</translation>
+        <translation>לא ניתן להפעיל את המקשר blackcoin: click-to-pay</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1337,7 +1337,7 @@
     </message>
     <message>
         <source>'bitcoin://' is not a valid URI. Use 'bitcoin:' instead.</source>
-        <translation>'//:bitcoin' אינה כתובת URI תקינה. השתמשו במקום ב ':bitcoin'.</translation>
+        <translation>'//:blackcoin' אינה כתובת URI תקינה. השתמשו במקום ב ':blackcoin'.</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>

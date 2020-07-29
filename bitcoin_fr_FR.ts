@@ -47,7 +47,7 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Choisissez une adresse où envoyer les bitcoins</translation>
+        <translation>Choisissez une adresse où envoyer les blackcoin</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>

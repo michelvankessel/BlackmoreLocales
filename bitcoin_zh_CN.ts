@@ -1328,7 +1328,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>无法启动 bitcoin 协议的“
+        <translation>无法启动 Blackcoin 协议的“
 一键支付”处理器</translation>
     </message>
     <message>
@@ -1337,7 +1337,7 @@
     </message>
     <message>
         <source>'bitcoin://' is not a valid URI. Use 'bitcoin:' instead.</source>
-        <translation>‘bitcoin://’不是合法的URI。请使用'bitcoin:'作为替代。</translation>
+        <translation>‘blackcoin://’不是合法的URI。请使用'blackcoin:'作为替代。</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>

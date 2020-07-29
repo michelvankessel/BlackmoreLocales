@@ -63,11 +63,11 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw Bitcoin adressen voor het versturen van betalingen. Controleer altijd het bedrag en het ontvangstadres voordat u munten verstuurd.</translation>
+        <translation>Dit zijn uw Blackcoin adressen voor het versturen van betalingen. Controleer altijd het bedrag en het ontvangstadres voordat u munten verstuurd.</translation>
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dit zijn uw Bitcoin adressen voor het ontvangen van betalingen. Het wordt aanbevolen om voor elke transactie een nieuw ontvangstadres te gebruiken.</translation>
+        <translation>Dit zijn uw Blackcoin adressen voor het ontvangen van betalingen. Het wordt aanbevolen om voor elke transactie een nieuw ontvangstadres te gebruiken.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -136,10 +136,6 @@
         <translation>Voer je nieuwe wachtwoord in je portemonnee in.&lt;br/&gt;Gebruik een wachtwoord van &lt;b&gt;tien of meer willekeurige karakters&lt;/b&gt;, of &lt;b&gt;acht of meer woorden&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Tik die nuwe wagwoord vir die beursie in.&lt;br/&gt;Gebruik asseblief 'n wagwoord van &lt;b&gt;ten minste 10 ewekansige karakters&lt;/b&gt;, of &lt;b&gt;agt (8) of meer woorde.&lt;/b&gt;</translation>
-    </message>
-    <message>
         <source>Encrypt wallet</source>
         <translation>Versleutel portemonnee</translation>
     </message>
@@ -173,19 +169,11 @@
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
-        <translation>Waarschuwing: Als je je portemonnee versleutelt en je wachtwoord kwijtraakt, raak je &lt;b&gt;AL JE BITCOINS KWIJT&lt;/b&gt;!</translation>
+        <translation>Waarschuwing: Als je je portemonnee versleutelt en je wachtwoord kwijtraakt, raak je &lt;b&gt;AL JE BLACKCOINS KWIJT&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Weet je zeker dat je je portemonnee wilt versleutelen?</translation>
-    </message>
-    <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
-        <translation>Waarskuwing: As jy jou beursie enkripteer en jou wagwoord verloor, sal jy &lt;b&gt;AL JOU BITCOINS VERLOOR&lt;/b&gt;!</translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Is jy seker jy wil jou beursie enkripteer?</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -193,15 +181,11 @@
     </message>
     <message>
         <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>%1 zal nu sluiten om het versleutel proces te voltooien. Onthoudt dat het versleutelen van je portemonnee jouw bitcoins niet volledig van diefstal via malware kan beschermen.</translation>
+        <translation>%1 zal nu sluiten om het versleutel proces te voltooien. Onthoudt dat het versleutelen van je portemonnee jouw blackcoins niet volledig van diefstal via malware kan beschermen.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
         <translation>BELANGRIJK: Alle vorige backups die je hebt gemaakt van het portemonnee bestand moeten vervangen worden door het nieuwe gemaakte versleutelde portemonnee bestand. Voor beveiligingsredenen zullen vorige backups van het niet versleutelde portemonnee bestand niet meer werken zodra je gebruik maakt van de nieuwe versleutelde portemonnee.</translation>
-    </message>
-    <message>
-        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>%1 gaan nou toe maak om die enkripsie proses klaar te maak. Onthou dat jou bitcoins nie ten volle beskerm kan word deur die beursie te enkrip teen "malware" wat jou rekenaar besmet.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -233,52 +217,25 @@
     </message>
     <message>
         <source>Warning: The Caps Lock key is on!</source>
-<<<<<<< HEAD
         <translation>Waarschuwing: Caps Lock staat aan!</translation>
-=======
-<<<<<<<< HEAD:src/qt/locale/bitcoin_nl_NL.ts
-        <translation>Waarschuwing: Caps Lock staat aan!</translation>
-========
-        <translation>Waarskuwing: Die Caps Lock is aan!</translation>
->>>>>>>> 0.17:src/qt/locale/bitcoin_af_ZA.ts
->>>>>>> 0.17
     </message>
 </context>
 <context>
     <name>BanTableModel</name>
     <message>
-<<<<<<< HEAD
-=======
-<<<<<<<< HEAD:src/qt/locale/bitcoin_nl_NL.ts
->>>>>>> 0.17
         <source>IP/Netmask</source>
         <translation>IP/Netmask</translation>
     </message>
     <message>
         <source>Banned Until</source>
         <translation>Geblokkeerd Tot</translation>
-<<<<<<< HEAD
-=======
-========
-        <source>Banned Until</source>
-        <translation>Verban Tot</translation>
->>>>>>>> 0.17:src/qt/locale/bitcoin_af_ZA.ts
->>>>>>> 0.17
     </message>
 </context>
 <context>
     <name>BitcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
-<<<<<<< HEAD
         <translation>Signeer &amp;bericht</translation>
-=======
-<<<<<<<< HEAD:src/qt/locale/bitcoin_nl_NL.ts
-        <translation>Signeer &amp;bericht</translation>
-========
-        <translation>Teken &amp;Boodskap</translation>
->>>>>>>> 0.17:src/qt/locale/bitcoin_af_ZA.ts
->>>>>>> 0.17
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -325,17 +282,6 @@
         <translation>Over &amp;Qt</translation>
     </message>
     <message>
-<<<<<<< HEAD
-=======
-        <source>Show information about %1</source>
-        <translation>Wys inligting oor %1</translation>
-    </message>
-    <message>
-        <source>About &amp;Qt</source>
-        <translation>Oor &amp;Qt</translation>
-    </message>
-    <message>
->>>>>>> 0.17
         <source>Show information about Qt</source>
         <translation>Toon informatie over Qt</translation>
     </message>
@@ -393,7 +339,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Verstuur coins naar een Bitcoin adres</translation>
+        <translation>Verstuur coins naar een Blackcoin adres</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -416,41 +362,8 @@
         <translation>&amp;Bericht verifiëren</translation>
     </message>
     <message>
-<<<<<<< HEAD
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
-=======
-        <source>Modify configuration options for %1</source>
-        <translation>Verander konfigurasie opsies vir %1</translation>
-    </message>
-    <message>
-        <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;Enkripteer Beursie...</translation>
-    </message>
-    <message>
-        <source>&amp;Change Passphrase...</source>
-        <translation>Verander wagwoord frase...</translation>
-    </message>
-    <message>
-        <source>&amp;Sending addresses...</source>
-        <translation>Uitstuur adresse...</translation>
-    </message>
-    <message>
-        <source>Open &amp;URI...</source>
-        <translation>Maak &amp;URI oop...</translation>
-    </message>
-    <message>
-        <source>Network activity disabled.</source>
-        <translation>Netwerk aktiwiteid afgeskakel.</translation>
-    </message>
-    <message>
-        <source>&amp;Verify message...</source>
-        <translation>&amp;Verifieer boodskap...</translation>
-    </message>
-    <message>
         <source>Bitcoin</source>
         <translation>Blackcoin</translation>
->>>>>>> 0.17
     </message>
     <message>
         <source>Wallet</source>
@@ -478,11 +391,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Signeer berichten met je Bitcoin adres om te bewijzen dat ze van jou zijn</translation>
+        <translation>Signeer berichten met je Blackcoin adres om te bewijzen dat ze van jou zijn</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Verifieer berichten om er zeker van te zijn dat ze met specifieke Bitcoin adressen ondertekent zijn</translation>
+        <translation>Verifieer berichten om er zeker van te zijn dat ze met specifieke Blackcoin adressen ondertekent zijn</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -502,7 +415,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Betalingen aanvragen (genereert QR codes en bitcoin: URI's)</translation>
+        <translation>Betalingen aanvragen (genereert QR codes en blackcoin: URI's)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -514,7 +427,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Open een bitcoin: URI of betaalverzoek</translation>
+        <translation>Open een blackcoin: URI of betaalverzoek</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -558,7 +471,7 @@
     </message>
     <message>
         <source>Show the %1 help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Open het %1 help bericht om een lijst met Bitcoin commando-regel opties te krijgen</translation>
+        <translation>Open het %1 help bericht om een lijst met Blackcoin commando-regel opties te krijgen</translation>
     </message>
     <message>
         <source>%1 client</source>
@@ -569,13 +482,6 @@
         <translation>Verbinding maken met peers...</translation>
     </message>
     <message>
-<<<<<<< HEAD
-=======
-        <source>%1 client</source>
-        <translation>%1 klient</translation>
-    </message>
-    <message>
->>>>>>> 0.17
         <source>Catching up...</source>
         <translation>Inhalen...</translation>
     </message>
@@ -586,15 +492,6 @@
 </translation>
     </message>
     <message>
-<<<<<<< HEAD
-=======
-        <source>Date: %1
-</source>
-        <translation>Datum: %1
-</translation>
-    </message>
-    <message>
->>>>>>> 0.17
         <source>Amount: %1
 </source>
         <translation>Bedrag: %1
@@ -603,10 +500,6 @@
     <message>
         <source>Type: %1
 </source>
-<<<<<<< HEAD
-=======
-<<<<<<<< HEAD:src/qt/locale/bitcoin_nl_NL.ts
->>>>>>> 0.17
         <translation>Type: %1
 </translation>
     </message>
@@ -614,12 +507,6 @@
         <source>Label: %1
 </source>
         <translation>Label: %1
-<<<<<<< HEAD
-=======
-========
-        <translation>Tipe: %1
->>>>>>>> 0.17:src/qt/locale/bitcoin_af_ZA.ts
->>>>>>> 0.17
 </translation>
     </message>
     <message>
@@ -629,28 +516,15 @@
 </translation>
     </message>
     <message>
-<<<<<<< HEAD
-=======
-<<<<<<<< HEAD:src/qt/locale/bitcoin_nl_NL.ts
->>>>>>> 0.17
         <source>Sent transaction</source>
         <translation>Transactie verzonden</translation>
     </message>
     <message>
-<<<<<<< HEAD
-=======
-========
->>>>>>>> 0.17:src/qt/locale/bitcoin_af_ZA.ts
->>>>>>> 0.17
         <source>Incoming transaction</source>
         <translation>Binnenkomende transactie</translation>
     </message>
     <message>
         <source>HD key generation is &lt;b&gt;enabled&lt;/b&gt;</source>
-<<<<<<< HEAD
-=======
-<<<<<<<< HEAD:src/qt/locale/bitcoin_nl_NL.ts
->>>>>>> 0.17
         <translation>HD sleutel generatie &lt;b&gt;geactiveerd&lt;/b&gt;</translation>
     </message>
     <message>
@@ -667,42 +541,14 @@
     </message>
     <message>
         <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
-        <translation>Een fatale error is voorgekomen. Bitcoin kan niet langer veilig verder gaan en sluit daardoor af.</translation>
+        <translation>Een fatale error is voorgekomen. Blackcoin kan niet langer veilig verder gaan en sluit daardoor af.</translation>
     </message>
 </context>
-<<<<<<< HEAD
-=======
-========
-        <translation>HD sleutel generasie is &lt;b&gt;aangesit&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <source>HD key generation is &lt;b&gt;disabled&lt;/b&gt;</source>
-        <translation>HD sleutel generasie is &lt;b&gt;afgesit&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Beursie is &lt;b&gt;versleutel&lt;/b&gt; en is tans &lt;b&gt;oopgesluit&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Beursie is &lt;b&gt;versleutel&lt;/b&gt; en is tans &lt;b&gt;gesluit&lt;/b&gt;</translation>
-    </message>
-    </context>
->>>>>>>> 0.17:src/qt/locale/bitcoin_af_ZA.ts
->>>>>>> 0.17
 <context>
     <name>CoinControlDialog</name>
     <message>
         <source>Coin Selection</source>
-<<<<<<< HEAD
         <translation>Coin Selectie</translation>
-=======
-<<<<<<<< HEAD:src/qt/locale/bitcoin_nl_NL.ts
-        <translation>Coin Selectie</translation>
-========
-        <translation>Munt Keuse</translation>
->>>>>>>> 0.17:src/qt/locale/bitcoin_af_ZA.ts
->>>>>>> 0.17
     </message>
     <message>
         <source>Quantity:</source>
@@ -722,21 +568,11 @@
     </message>
     <message>
         <source>Dust:</source>
-<<<<<<< HEAD
-=======
-<<<<<<<< HEAD:src/qt/locale/bitcoin_nl_NL.ts
->>>>>>> 0.17
         <translation>Dust:</translation>
     </message>
     <message>
         <source>After Fee:</source>
         <translation>Na Fooi:</translation>
-<<<<<<< HEAD
-=======
-========
-        <translation>Stof:</translation>
->>>>>>>> 0.17:src/qt/locale/bitcoin_af_ZA.ts
->>>>>>> 0.17
     </message>
     <message>
         <source>Change:</source>
@@ -845,75 +681,10 @@
     </context>
 <context>
     <name>EditAddressDialog</name>
-<<<<<<< HEAD
-=======
-<<<<<<<< HEAD:src/qt/locale/bitcoin_nl_NL.ts
->>>>>>> 0.17
     </context>
 <context>
     <name>FreespaceChecker</name>
     </context>
-<<<<<<< HEAD
-=======
-========
-    <message>
-        <source>Edit Address</source>
-        <translation>Wysig Adres</translation>
-    </message>
-    <message>
-        <source>&amp;Label</source>
-        <translation>&amp;Etiket</translation>
-    </message>
-    <message>
-        <source>&amp;Address</source>
-        <translation>&amp;Adres</translation>
-    </message>
-    <message>
-        <source>New receiving address</source>
-        <translation>Nuwe ontvangende adres</translation>
-    </message>
-    <message>
-        <source>New sending address</source>
-        <translation>Nuwe stuurende adres</translation>
-    </message>
-    <message>
-        <source>Edit receiving address</source>
-        <translation>Wysig ontvangende adres</translation>
-    </message>
-    <message>
-        <source>Edit sending address</source>
-        <translation>Wysig stuurende adres</translation>
-    </message>
-    <message>
-        <source>Could not unlock wallet.</source>
-        <translation>Kon nie die beursie oopsluit nie.</translation>
-    </message>
-    <message>
-        <source>New key generation failed.</source>
-        <translation>Nuwe sleutel genereering het misluk.</translation>
-    </message>
-</context>
-<context>
-    <name>FreespaceChecker</name>
-    <message>
-        <source>A new data directory will be created.</source>
-        <translation>n Nuwe data  lêer sal geskep word.</translation>
-    </message>
-    <message>
-        <source>name</source>
-        <translation>naam</translation>
-    </message>
-    <message>
-        <source>Directory already exists. Add %1 if you intend to create a new directory here.</source>
-        <translation>Lêer bestaan reeds. Voeg %1 indien u van plan is om n nuwe lêer hier te skep.</translation>
-    </message>
-    <message>
-        <source>Cannot create data directory here.</source>
-        <translation>Kan nie data gids hier skep nie.</translation>
-    </message>
-</context>
->>>>>>>> 0.17:src/qt/locale/bitcoin_af_ZA.ts
->>>>>>> 0.17
 <context>
     <name>HelpMessageDialog</name>
     </context>
@@ -921,15 +692,7 @@
     <name>Intro</name>
     <message>
         <source>Bitcoin</source>
-<<<<<<< HEAD
         <translation>Blackcoin</translation>
-=======
-        <translation>Bitcoin</translation>
-    </message>
-    <message>
-        <source>The wallet will also be stored in this directory.</source>
-        <translation>Die beursie sal ook gestoor word in hierdie lêer.</translation>
->>>>>>> 0.17
     </message>
     <message>
         <source>Error</source>
@@ -938,24 +701,6 @@
     </context>
 <context>
     <name>ModalOverlay</name>
-<<<<<<< HEAD
-=======
-<<<<<<<< HEAD:src/qt/locale/bitcoin_nl_NL.ts
-========
-    <message>
-        <source>Form</source>
-        <translation>Vorm</translation>
-    </message>
-    <message>
-        <source>Progress</source>
-        <translation>Vorderering</translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation>Steek weg</translation>
-    </message>
->>>>>>>> 0.17:src/qt/locale/bitcoin_af_ZA.ts
->>>>>>> 0.17
     </context>
 <context>
     <name>OpenURIDialog</name>
@@ -963,14 +708,6 @@
 <context>
     <name>OptionsDialog</name>
     <message>
-<<<<<<< HEAD
-        <source>Error</source>
-        <translation>Fout</translation>
-    </message>
-    </context>
-<context>
-    <name>OverviewPage</name>
-=======
         <source>Use separate SOCKS&amp;5 proxy to reach peers via Tor hidden services:</source>
         <translation>Gebruike aparte SOCKS&amp;5 proxy om peers te bereiken via Tor hidden services</translation>
     </message>
@@ -1029,11 +766,6 @@
         <source>Recent transactions</source>
         <translation>Recente transacties</translation>
     </message>
-    <message>
-        <source>Total:</source>
-        <translation>Totaal:</translation>
-    </message>
->>>>>>> 0.17
     </context>
 <context>
     <name>PaymentServer</name>
@@ -1048,42 +780,8 @@
         <translation>Bedrag</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <source>%1 and %2</source>
         <translation>%1 en %2</translation>
-=======
-<<<<<<<< HEAD:src/qt/locale/bitcoin_nl_NL.ts
-        <source>%1 and %2</source>
-        <translation>%1 en %2</translation>
-========
-        <source>%1 d</source>
-        <translation>%1 d</translation>
-    </message>
-    <message>
-        <source>%1 h</source>
-        <translation>%1 h</translation>
-    </message>
-    <message>
-        <source>%1 m</source>
-        <translation>%1 m</translation>
-    </message>
-    <message>
-        <source>%1 s</source>
-        <translation>%1 s</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>Geen</translation>
-    </message>
-    <message>
-        <source>%1 ms</source>
-        <translation>%1 ms</translation>
-    </message>
-    <message>
-        <source>unknown</source>
-        <translation>onbekend</translation>
->>>>>>>> 0.17:src/qt/locale/bitcoin_af_ZA.ts
->>>>>>> 0.17
     </message>
     </context>
 <context>
@@ -1120,13 +818,10 @@
         <source>Label</source>
         <translation>Label</translation>
     </message>
-<<<<<<< HEAD
-=======
     <message>
         <source>Wallet</source>
         <translation>Portemonnee</translation>
     </message>
->>>>>>> 0.17
     </context>
 <context>
     <name>RecentRequestsTableModel</name>
@@ -1160,46 +855,14 @@
     <message>
         <source>Fee:</source>
         <translation>Fooi:</translation>
-<<<<<<< HEAD
-=======
-<<<<<<<< HEAD:src/qt/locale/bitcoin_nl_NL.ts
-========
-    </message>
-    <message>
-        <source>Change:</source>
-        <translation>Verander:</translation>
-    </message>
-    <message>
-        <source>Transaction Fee:</source>
-        <translation>Transaksie fooi:</translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation>Steek weg</translation>
->>>>>>>> 0.17:src/qt/locale/bitcoin_af_ZA.ts
->>>>>>> 0.17
     </message>
     <message>
         <source>After Fee:</source>
         <translation>Na Fooi:</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <source>Change:</source>
         <translation>Wisselgeld:</translation>
-=======
-<<<<<<<< HEAD:src/qt/locale/bitcoin_nl_NL.ts
-        <source>Change:</source>
-        <translation>Wisselgeld:</translation>
-========
-        <source>Dust:</source>
-        <translation>Stof:</translation>
-    </message>
-    <message>
-        <source>Balance:</source>
-        <translation>Balans:</translation>
->>>>>>>> 0.17:src/qt/locale/bitcoin_af_ZA.ts
->>>>>>> 0.17
     </message>
     <message>
         <source>Dust:</source>
@@ -1351,24 +1014,6 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-<<<<<<< HEAD
-=======
-<<<<<<<< HEAD:src/qt/locale/bitcoin_nl_NL.ts
-========
-        <source>Options:</source>
-        <translation>Opsies:</translation>
-    </message>
-    <message>
-        <source>Error: Disk space is low!</source>
-        <translation>Fout: Hardeskyf spasie is baie laag!</translation>
-    </message>
-    <message>
-        <source>Importing...</source>
-        <translation>Invoer proses tans besig..</translation>
-    </message>
-    <message>
->>>>>>>> 0.17:src/qt/locale/bitcoin_af_ZA.ts
->>>>>>> 0.17
         <source>Information</source>
         <translation>Informatie</translation>
     </message>

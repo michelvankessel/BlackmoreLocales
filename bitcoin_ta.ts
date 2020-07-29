@@ -63,7 +63,7 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>இவை உங்கள் Bitcoin முகவரிகள் பணம் பெறுவதற்கு. ஒவ்வொரு பரிவர்த்தனைக்கும் புதிய பெறுதல் முகவரியைப் பயன்படுத்த பரிந்துரைக்கப்படுகிறது.</translation>
+        <translation>இவை உங்கள் Blackcoin முகவரிகள் பணம் பெறுவதற்கு. ஒவ்வொரு பரிவர்த்தனைக்கும் புதிய பெறுதல் முகவரியைப் பயன்படுத்த பரிந்துரைக்கப்படுகிறது.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -384,7 +384,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>கொடுப்பனவுகளை கோருதல் (QR குறியீடுகள் மற்றும் bitcoin உருவாக்குகிறது: URI கள்)</translation>
+        <translation>கொடுப்பனவுகளை கோருதல் (QR குறியீடுகள் மற்றும் blackcoin உருவாக்குகிறது: URI கள்)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -396,7 +396,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>ஒரு Bitcoin திறக்க: URI அல்லது பணம் கோரிக்கை</translation>
+        <translation>ஒரு Blackcoin திறக்க: URI அல்லது பணம் கோரிக்கை</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -737,7 +737,7 @@ HD முக்கிய தலைமுறை முடக்கப்பட்
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation>Blackcoin</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -922,7 +922,7 @@ HD முக்கிய தலைமுறை முடக்கப்பட்
     </message>
     <message>
         <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>ரூட்டரில் Bitcoin கிளையன்ட் போர்ட் தானாக திறக்க. இது உங்கள் திசைவி UPnP ஐ ஆதரிக்கும் போது மட்டுமே இயங்குகிறது.</translation>
+        <translation>ரூட்டரில் Blackcoin கிளையன்ட் போர்ட் தானாக திறக்க. இது உங்கள் திசைவி UPnP ஐ ஆதரிக்கும் போது மட்டுமே இயங்குகிறது.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -938,7 +938,7 @@ HD முக்கிய தலைமுறை முடக்கப்பட்
     </message>
     <message>
         <source>Connect to the Bitcoin network through a SOCKS5 proxy.</source>
-        <translation>Bitcoin பிணையத்துடன் SOCKS5 ப்ராக்ஸி மூலம் இணைக்கவும்.</translation>
+        <translation>Blackcoin பிணையத்துடன் SOCKS5 ப்ராக்ஸி மூலம் இணைக்கவும்.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1152,7 +1152,7 @@ HD முக்கிய தலைமுறை முடக்கப்பட்
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>Bitcoin தொடங்க முடியாது: கிளிக் க்கு ஊதியம் கையாளுதல்</translation>
+        <translation>Blackcoin தொடங்க முடியாது: கிளிக் க்கு ஊதியம் கையாளுதல்</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1160,7 +1160,7 @@ HD முக்கிய தலைமுறை முடக்கப்பட்
     </message>
     <message>
         <source>'bitcoin://' is not a valid URI. Use 'bitcoin:' instead.</source>
-        <translation>'bitcoin: //' சரியான URI அல்ல. அதற்கு பதிலாக 'பிட்கின்:' பயன்படுத்தவும்.
+        <translation>'blackcoin: //' சரியான URI அல்ல. அதற்கு பதிலாக 'பிட்கின்:' பயன்படுத்தவும்.
 </translation>
     </message>
     <message>
@@ -1632,7 +1632,7 @@ HD முக்கிய தலைமுறை முடக்கப்பட்
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation>கோரிக்கையை திறக்கும் போது காட்டப்படும் இது பணம் கோரிக்கை இணைக்க ஒரு விருப்ப செய்தி. குறிப்பு: Bitcoin நெட்வொர்க்கில் பணம் செலுத்தியவுடன் செய்தி அனுப்பப்படாது.</translation>
+        <translation>கோரிக்கையை திறக்கும் போது காட்டப்படும் இது பணம் கோரிக்கை இணைக்க ஒரு விருப்ப செய்தி. குறிப்பு: Blackcoin நெட்வொர்க்கில் பணம் செலுத்தியவுடன் செய்தி அனுப்பப்படாது.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>

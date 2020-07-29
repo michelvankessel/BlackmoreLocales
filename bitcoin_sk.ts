@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
-        <translation>Varovanie: Ak zašifrujete peňaženku a stratíte heslo, &lt;b&gt;STRATÍTE VŠETKY VAŠE BITCOINY&lt;/b&gt;!</translation>
+        <translation>Varovanie: Ak zašifrujete peňaženku a stratíte heslo, &lt;b&gt;STRATÍTE VŠETKY VAŠE BLACKCOINY&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -455,7 +455,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n aktívne pripojenie do siete Bitcoin</numerusform><numerusform>%n aktívne pripojenia do siete Bitcoin</numerusform><numerusform>%n aktívnych pripojení do siete Bitcoin</numerusform><numerusform>%n aktívnych pripojení do siete Bitcoin</numerusform></translation>
+        <translation><numerusform>%n aktívne pripojenie do siete Blackcoin</numerusform><numerusform>%n aktívne pripojenia do siete Blackcoin</numerusform><numerusform>%n aktívnych pripojení do siete Blackcoin</numerusform><numerusform>%n aktívnych pripojení do siete Blackcoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -862,7 +862,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation>Blackcoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -1329,7 +1329,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>Nemôžeme spustiť Bitcoin: obsluha click-to-pay</translation>
+        <translation>Nemôžeme spustiť Blackcoin: obsluha click-to-pay</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1337,7 +1337,7 @@
     </message>
     <message>
         <source>'bitcoin://' is not a valid URI. Use 'bitcoin:' instead.</source>
-        <translation>'bitcoin://' je neplatná URI. Použite 'bitcoin:'</translation>
+        <translation>'blackcoin://' je neplatná URI. Použite 'blackcoin:'</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>

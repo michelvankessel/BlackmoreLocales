@@ -67,11 +67,11 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>To so vaši Bitcoin naslovi za pošiljanje. Pred pošiljanjem vedno preverite količino in prejemnikov naslov.</translation>
+        <translation>To so vaši Blackcoin naslovi za pošiljanje. Pred pošiljanjem vedno preverite količino in prejemnikov naslov.</translation>
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To so vaši Bitcoin naslovi za prejemanje. Priporočeno je, da za vsako transakcijo uporabite nov naslov.</translation>
+        <translation>To so vaši Blackcoin naslovi za prejemanje. Priporočeno je, da za vsako transakcijo uporabite nov naslov.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -173,7 +173,7 @@
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
-        <translation>Opozorilo: V primeru izgube gesla šifrirane denarnice, boste &lt;b&gt;IZGUBILI VSE SVOJE BITCOINE&lt;/b&gt;!</translation>
+        <translation>Opozorilo: V primeru izgube gesla šifrirane denarnice, boste &lt;b&gt;IZGUBILI VSE SVOJE BLACKCOINE&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -185,7 +185,7 @@
     </message>
     <message>
         <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>%1 se bo zaprl, da bi dokončal postopek šifriranja. Zapomnite si, da šifriranje vaše denarnice vaših ne more popolnoma zaščititi vaših bitcoinov pred krajami zlonamernih programov, ki bi lahko bili nameščeni na vašem računalniku.</translation>
+        <translation>%1 se bo zaprl, da bi dokončal postopek šifriranja. Zapomnite si, da šifriranje vaše denarnice vaših ne more popolnoma zaščititi vaših blackcoinov pred krajami zlonamernih programov, ki bi lahko bili nameščeni na vašem računalniku.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -451,7 +451,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n aktivna povezava v omrežje Blackcoin</numerusform><numerusform>%n aktivni povezavi v omrežje Blackcoin</numerusform><numerusform>%n aktivne povezave v omrežje Blackcoin</numerusform><numerusform>%n aktivnih povezav v omrežje Bitcoin</numerusform></translation>
+        <translation><numerusform>%n aktivna povezava v omrežje Blackcoin</numerusform><numerusform>%n aktivni povezavi v omrežje Blackcoin</numerusform><numerusform>%n aktivne povezave v omrežje Blackcoin</numerusform><numerusform>%n aktivnih povezav v omrežje Blackcoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -570,7 +570,7 @@
     </message>
     <message>
         <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
-        <translation>Napaka. Bitcoin ne more več varno nadaljevati in se bo zaprl.</translation>
+        <translation>Napaka. Blackcoin ne more več varno nadaljevati in se bo zaprl.</translation>
     </message>
 </context>
 <context>
@@ -760,7 +760,7 @@
     </message>
     <message>
         <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>Vnešeni naslov %1 ni veljaven Bitcoin naslov.</translation>
+        <translation>Vnešeni naslov %1 ni veljaven Blackcoin naslov.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -845,7 +845,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation>Blackcoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -857,7 +857,7 @@
     </message>
     <message>
         <source>%1 will download and store a copy of the Bitcoin block chain.</source>
-        <translation>%1 bo prenesel in shranil kopijo Bitcoin baze podatkovnih blokov.</translation>
+        <translation>%1 bo prenesel in shranil kopijo Blackcoin baze podatkovnih blokov.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -888,7 +888,7 @@
     </message>
     <message>
         <source>Attempting to spend bitcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>Poskus porabe bitcoinov, na katere vplivajo še ne prikazane transakcije, omrežje ne bo sprejelo.</translation>
+        <translation>Poskus porabe blackcoinov, na katere vplivajo še ne prikazane transakcije, omrežje ne bo sprejelo.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1118,7 +1118,7 @@
     </message>
     <message>
         <source>Connect to the Bitcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Poveži se v omrežje Bitcoin preko posredniškega strežnika SOCKS5 za skrite storitve Tor.</translation>
+        <translation>Poveži se v omrežje Blackcoin preko posredniškega strežnika SOCKS5 za skrite storitve Tor.</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1296,7 +1296,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>Ni mogoče zagnati rokovalca plačilnih povezav tipa bitcoin:.</translation>
+        <translation>Ni mogoče zagnati rokovalca plačilnih povezav tipa blackcoin:.</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1304,7 +1304,7 @@
     </message>
     <message>
         <source>'bitcoin://' is not a valid URI. Use 'bitcoin:' instead.</source>
-        <translation>'bitcoin://' ni veljaven URI. Uporabite raje 'bitcoin:' .</translation>
+        <translation>'blackcoin://' ni veljaven URI. Uporabite raje 'blackcoin:' .</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1316,7 +1316,7 @@
     </message>
     <message>
         <source>URI cannot be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation>URI je neprepoznaven! Možno je, da je naslov Bitcoin neveljaven, ali da so parametri v URI napačno oblikovani.</translation>
+        <translation>URI je neprepoznaven! Možno je, da je naslov Blackcoin neveljaven, ali da so parametri v URI napačno oblikovani.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1418,7 +1418,7 @@
     </message>
     <message>
         <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Vnesite naslov Bitcoin (npr. %1):</translation>
+        <translation>Vnesite naslov Blackcoin (npr. %1):</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2239,7 +2239,7 @@
     </message>
     <message>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Opozorilo: Neveljaven Bitcoin naslov</translation>
+        <translation>Opozorilo: Neveljaven Blackcoin naslov</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2278,7 +2278,7 @@
     </message>
     <message>
         <source>The Bitcoin address to send the payment to</source>
-        <translation>Naslov Bitcoin, na katerega bo plačilo poslano</translation>
+        <translation>Naslov Blackcoin, na katerega bo plačilo poslano</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2326,7 +2326,7 @@
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>Sporočilo, ki ste ga pripeli na URI tipa bitcoin:. Shranjeno bo skupaj s podatki o transakciji. Opomba: Sporočilo ne bo poslano preko omrežja Bitcoin.</translation>
+        <translation>Sporočilo, ki ste ga pripeli na URI tipa blackcoin:. Shranjeno bo skupaj s podatki o transakciji. Opomba: Sporočilo ne bo poslano preko omrežja Blackcoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
