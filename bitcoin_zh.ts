@@ -67,11 +67,11 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>这些是你的比特币支付地址。在发送之前，一定要核对金额和接收地址。</translation>
+        <translation>这些是你的黑币支付地址。在发送之前，一定要核对金额和接收地址。</translation>
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>这些是您的比特币接收地址。建议每个交易使用一个新的接收地址。</translation>
+        <translation>这些是您的黑币接收地址。建议每个交易使用一个新的接收地址。</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
-        <translation>注意：如果你加密了钱包，丢失了密码，您将&lt;b&gt;丢失所有的比特币。</translation>
+        <translation>注意：如果你加密了钱包，丢失了密码，您将&lt;b&gt;丢失所有的黑币。</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -339,7 +339,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>发送比特币到一个比特币地址</translation>
+        <translation>发送黑币到一个黑币地址</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -363,7 +363,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>比特币</translation>
+        <translation>黑币</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -387,11 +387,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>用您的比特币地址签署信息，以证明拥有它们</translation>
+        <translation>用您的黑币地址签署信息，以证明拥有它们</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>验证消息，确保它们是用指定的比特币地址签名的</translation>
+        <translation>验证消息，确保它们是用指定的黑币地址签名的</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -411,7 +411,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>请求支付(生成二维码和比特币链接)</translation>
+        <translation>请求支付(生成二维码和黑币链接)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -423,7 +423,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>打开比特币: URI 或者支付请求</translation>
+        <translation>打开黑币: URI 或者支付请求</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -539,7 +539,7 @@
     </message>
     <message>
         <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
-        <translation>发生了致命错误。比特币无法继续安全运行，将退出。</translation>
+        <translation>发生了致命错误。黑币无法继续安全运行，将退出。</translation>
     </message>
 </context>
 <context>
@@ -711,7 +711,7 @@
     </message>
     <message>
         <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>输入的地址"%1"不是有效的比特币地址。</translation>
+        <translation>输入的地址"%1"不是有效的黑币地址。</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -792,7 +792,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>比特币</translation>
+        <translation>黑币</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1185,7 +1185,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
     </message>
     <message>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>警告：比特币地址无效</translation>
+        <translation>警告：黑币地址无效</translation>
     </message>
     <message>
         <source>The address you selected for change is not part of this wallet. Any or all funds in your wallet may be sent to this address. Are you sure?</source>
@@ -1212,11 +1212,11 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
     </message>
     <message>
         <source>The Bitcoin address to send the payment to</source>
-        <translation>支付到的比特币地址</translation>
+        <translation>支付到的黑币地址</translation>
     </message>
     <message>
         <source>The fee will be deducted from the amount being sent. The recipient will receive less bitcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>手续费将从发出的总额中扣除。接受者收到的比特币将少于你输入的金额字段。如果选择了多个接受者，手续费将平均分配。</translation>
+        <translation>手续费将从发出的总额中扣除。接受者收到的黑币将少于你输入的金额字段。如果选择了多个接受者，手续费将平均分配。</translation>
     </message>
     <message>
         <source>This is an unauthenticated payment request.</source>
@@ -1228,7 +1228,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>附在比特币上的消息:URI将与交易一起存储，供参考。注意：此信息不会通过比特币网络发送。</translation>
+        <translation>附在黑币上的消息:URI将与交易一起存储，供参考。注意：此信息不会通过黑币网络发送。</translation>
     </message>
     <message>
         <source>Enter a label for this address to add it to your address book</source>
